@@ -1,0 +1,22 @@
+[
+  {
+    "survey_id": "surveyhash2",
+    "title": "How do you analyze the status of online stores?",
+    "description": "We want to improve the state of the country's online stores",
+    "survey_owner": "Washington DC",
+    "count_of_questions": 10
+  },
+  {
+    "survey_id": "surveyhash1",
+    "title": "How do you analyze the status of car repaire shops?",
+    "description": "We want to improve the state of the country's car repaire shops",
+    "survey_owner": "New York",
+    "count_of_questions": 7
+  },  {
+    "survey_id": "surveyhash1",
+    "title": "How do you analyze the status of Real Estate Agencies?",
+    "description": "We want to improve the state of the country's Real Estate Agencies",
+    "survey_owner": "Texas",
+    "count_of_questions": 15
+  }
+]
